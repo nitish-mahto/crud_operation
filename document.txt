@@ -1,0 +1,2 @@
+
+mongodb+srv://mahto:<password>@cluster0.azqkzwu.mongodb.net/?retryWrites=true&w=majority
